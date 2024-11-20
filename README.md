@@ -1,4 +1,4 @@
-The `bestpoolservices` repository appears to be for a pool service company's website. It contains various PHP, CSS, and JavaScript files, including components for forms, services, and testimonials. 
+The `clixprojects` repository appears to be for a pool service company's website. It contains various PHP, CSS, and JavaScript files, including components for forms, services, and testimonials. 
 
 Here's a sample README structure:
 
@@ -19,7 +19,7 @@ A website project for showcasing the services of a pool service company.
 - [License](#license)
 
 ## Overview
-A responsive site to promote pool services, including contact forms and testimonials. Visit the site at [bestpoolservices.co.za](https://bestpoolservices.co.za).
+A responsive site to promote pool services, including contact forms and testimonials. Visit the site at [clixprojects.co.za](https://clixprojects.co.za).
 
 ## Features
 - Service listing
@@ -29,7 +29,7 @@ A responsive site to promote pool services, including contact forms and testimon
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Carrington-dev/bestpoolservices.git
+   git clone https://github.com/Carrington-dev/clixprojects.git
    ```
 2. Adjust `includes/contact.php` to match your database settings.
 
