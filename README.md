@@ -1,9 +1,3 @@
-The `clixprojects` repository appears to be for a pool service company's website. It contains various PHP, CSS, and JavaScript files, including components for forms, services, and testimonials. 
-
-Here's a sample README structure:
-
----
-
 # Best Pool Services
 
 A website project for showcasing the services of a pool service company.
